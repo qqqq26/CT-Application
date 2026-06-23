@@ -8,6 +8,7 @@ From the DeepLesion dataset(https://nihcc.app.box.com/v/DeepLesion/folder/518779
 ### Dependencies: 
 **Python**: version 3.10 or higher <br>
 **Node.js**: version 18.0 or higher <br>
+**Vue** <br>
 **MongoDB** <br>
 
 ### Structure:
