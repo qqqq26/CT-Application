@@ -21,13 +21,13 @@ From the DeepLesion dataset(https://nihcc.app.box.com/v/DeepLesion/folder/518779
         |--- vite.config.js <br>
 
 
-#### Run backend
+### Run backend
 cd backend <br>
 pip install -r requirements.txt <br>
 python main.py <br>
 
 
-####Run frontend
+### Run frontend
 cd frontend <br>
 npm install <br> 
 npm run dev <br>
