@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+opencv-python
+numpy
+pymongo
+torch
+pydantic
+cv2
+certifi
